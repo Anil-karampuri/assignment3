@@ -1,0 +1,11 @@
+body,html {
+    height:100%;
+  }
+  .bodycontainer {
+    min-height:100%;
+  }
+  .footer {
+    height:40px;
+    margin-top:-40px;
+  }
+ 
